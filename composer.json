@@ -11,5 +11,7 @@
             "email": "b28203598@yahoo.com.tw"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.40"
+    }
 }
