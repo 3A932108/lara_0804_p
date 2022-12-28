@@ -1,6 +1,7 @@
 <?php
 
 require __DIR__.'/bootstrap.php';
+require __DIR__.'/autoload.php';
 
 // connect to dabase
 try {
