@@ -1,0 +1,15 @@
+{
+    "name": "a0976/lara_0804_p",
+    "autoload": {
+        "psr-4": {
+            "A0976\\Lara0804P\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yi chu hsu",
+            "email": "b28203598@yahoo.com.tw"
+        }
+    ],
+    "require": {}
+}
